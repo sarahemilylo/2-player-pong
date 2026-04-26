@@ -7,6 +7,8 @@ Player 1 controls the left paddle using the keyboard, while Player 2 controls th
 
 ---
 
+<img width="2542" height="1446" alt="Screenshot 2026-04-26 172400" src="https://github.com/user-attachments/assets/0f200d69-c7a3-4287-bbfe-8d469447e0f6" />
+
 ## ⚙️ Features
 - 👥 Two-player gameplay
 - 🎮 Mixed controls:
