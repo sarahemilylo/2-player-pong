@@ -1,4 +1,8 @@
-# 🏓 2 Player Pong (Java Swing)
+# 🏓 2 Player Pong
+
+![Java](https://img.shields.io/badge/Language-Java-blue.svg)
+![GUI](https://img.shields.io/badge/GUI-Swing-green.svg)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)
 
 ## 📝 Description
 This is a simple **2-player Pong game** built using Java Swing. The game features real-time ball movement, paddle controls, and score tracking.
