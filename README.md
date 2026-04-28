@@ -58,3 +58,8 @@ Player 1 controls the left paddle using the keyboard, while Player 2 controls th
 1. Compile both files:
 ```bash
 javac 2playerpong.java JPong.java
+```
+
+2. Run file:
+```bash
+java 2playerpong
